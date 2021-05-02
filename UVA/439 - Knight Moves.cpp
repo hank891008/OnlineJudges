@@ -44,4 +44,5 @@ int main(){
 		}
 		printf("To get from %s to %s takes %d knight moves.\n", st1.c_str(), st2.c_str(), chess[kn2.first][kn2.second]);
 	}
+	return 0;
 }
